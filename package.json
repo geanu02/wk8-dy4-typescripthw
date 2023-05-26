@@ -1,0 +1,25 @@
+{
+  "name": "day4-hw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geanu02/wk8-dy4-typescripthw.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geanu02/wk8-dy4-typescripthw/issues"
+  },
+  "homepage": "https://github.com/geanu02/wk8-dy4-typescripthw#readme",
+  "dependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4",
+    "uuid": "^9.0.0"
+  }
+}
